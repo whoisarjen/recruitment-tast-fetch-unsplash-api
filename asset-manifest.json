@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/recruitment-tast-fetch-unsplash-api/static/css/main.fe385b8b.css",
-    "main.js": "/recruitment-tast-fetch-unsplash-api/static/js/main.b2ee3a53.js",
+    "main.js": "/recruitment-tast-fetch-unsplash-api/static/js/main.aebb3198.js",
     "index.html": "/recruitment-tast-fetch-unsplash-api/index.html",
     "main.fe385b8b.css.map": "/recruitment-tast-fetch-unsplash-api/static/css/main.fe385b8b.css.map",
-    "main.b2ee3a53.js.map": "/recruitment-tast-fetch-unsplash-api/static/js/main.b2ee3a53.js.map"
+    "main.aebb3198.js.map": "/recruitment-tast-fetch-unsplash-api/static/js/main.aebb3198.js.map"
   },
   "entrypoints": [
     "static/css/main.fe385b8b.css",
-    "static/js/main.b2ee3a53.js"
+    "static/js/main.aebb3198.js"
   ]
 }
