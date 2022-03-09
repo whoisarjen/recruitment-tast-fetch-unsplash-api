@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recruitment-tast-fetch-unsplash-api%20/static/css/main.fe385b8b.css",
+    "main.js": "/recruitment-tast-fetch-unsplash-api%20/static/js/main.5efce53f.js",
+    "index.html": "/recruitment-tast-fetch-unsplash-api%20/index.html",
+    "main.fe385b8b.css.map": "/recruitment-tast-fetch-unsplash-api%20/static/css/main.fe385b8b.css.map",
+    "main.5efce53f.js.map": "/recruitment-tast-fetch-unsplash-api%20/static/js/main.5efce53f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe385b8b.css",
+    "static/js/main.5efce53f.js"
+  ]
+}
