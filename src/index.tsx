@@ -7,7 +7,7 @@ import Photos from './pages/photos';
 render(
     <BrowserRouter>
         <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="*" element={<Home />} />
             <Route path="/photos/:find" element={<Photos />} />
         </Routes>
     </BrowserRouter>,
